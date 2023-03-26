@@ -2,10 +2,14 @@
 
 ## -Get a license key from Tradeview360.com
 ![Get your license key](_images/1.png)
+You will get your license after checkout.
 ## -Create a apikey from your platform
 ![binace api](_images/2.png)
 ***We do not store your API keys. They are sent directly to the platform, ensuring that your data is not leaked***
 According to your requirements for enabling transaction and viewing features, we strongly recommend IP access restrictions. The list of available IP addresses is as follows:
+```
+43.206.233.55
+```
 ## -Config alert in Tradingview.com
 ![Config your webhook](_images/3.png)
 ```
